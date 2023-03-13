@@ -26,6 +26,8 @@ npm init wdio .
 
 ## Run Test
 
+please make sure to delete this file (example.e2e.js located at test/specs/example.e2e.js) before running the test
+
 ```bash
 npx wdio run ./wdio.conf.js
 ```
