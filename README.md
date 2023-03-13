@@ -11,7 +11,7 @@ Node.js (https://nodejs.org/en/download/)
 ## Clone
 
 ```bash
-npm init –y
+https://github.com/S-Selim/VT.git
 ```
 
 ## WebdriverIO Setup
