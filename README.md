@@ -19,8 +19,7 @@ git clone https://github.com/S-Selim/VT.git
 ```bash
 npm init wdio .
 ```
-
--
+- choose all the defaults
 
 *
 
