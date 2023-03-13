@@ -21,7 +21,6 @@ npm init wdio .
 ```
 - choose all the defaults
 
-*
 
 ## Run Test
 
